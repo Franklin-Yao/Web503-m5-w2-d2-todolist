@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 span {
+  font-size: 1.3em;
+  display: inline;
+}
+ul #notebox {
+  visibility: hidden;
+  position: absolute;
+}
+ul #todoDone {
+  width: 25px;
+}
+.header {
+  height: 70px;
+}
